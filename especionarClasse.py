@@ -16,7 +16,6 @@ print('------------------------')
 pessoa = Pessoa('mateus',24,1.80,60)
 pessoa.seApresentar()
 pessoa.fazerAniversario()
-pessoa.fazerCoco()
 especionar(pessoa)
 
 print('------------------------')
@@ -24,7 +23,6 @@ print('------------------------')
 programador = Programador('mateus',24,1.80,60)
 programador.seApresentar()
 programador.fazerAniversario()
-programador.fazerCoco()
 especionar(programador)
 
 print('------------------------')
@@ -32,7 +30,6 @@ print('------------------------')
 chatbot = ChatBOT('mateus',24,1.80,60)
 chatbot.seApresentar()
 chatbot.fazerAniversario()
-chatbot.fazerCoco()
 especionar(chatbot)
 
 
