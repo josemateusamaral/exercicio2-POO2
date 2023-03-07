@@ -11,8 +11,5 @@ class Pessoa:
     def fazerAniversario(self):
         self.idade += 1
 
-    def fazerCoco(self):
-        self.peso -= 1
-
 
 
